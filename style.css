@@ -1,0 +1,101 @@
+body
+{
+  text-align: center;
+  vertical-align: middle;
+  background: linear-gradient(to bottom right, #F8BBD0 0%, #90CAF9 100%); 
+ 
+  display: table;
+  background-repeat: no-repeat;
+}
+
+h1
+{
+  text-shodaw: 2px 2px #7B1FA2;
+  font-size: 20px
+}
+
+#bio {
+  padding: 20px;
+  font-size: 18;
+  text-align: center;
+}
+
+img {
+  width: 50%;
+  border-radius: 50%;
+}
+
+.links {
+    float: left;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-size: 15px;
+}
+
+.links:hover {
+    background-color: beige;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu {
+  list-style: none;
+  font-family: cursive;
+  float: right;
+  top: 1px;
+  right: 30px;
+  cursor: pointer;
+  color: black;
+  position: fixed;
+}
+
+#arts
+{
+  width: 30%
+}
+
+#as
+{
+  padding-left: 150px;
+}
+
+#bm
+{
+  padding-left: 130px;
+}
+
+#w
+{
+  padding-left: 30px;
+}
+ #myfavhobby
+{
+  text-align: center;
+}
+
+#writings a {
+    text-decoration: underline !important;
+    color: green !important;
+}
+
+#contact {
+    background: lightgrey;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+
